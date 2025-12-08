@@ -1,0 +1,25 @@
+body {
+            margin: 0;
+        }
+        .banner{
+            width: 1500px;
+            height: 500px;
+            background-color: white;
+            color: black;
+            font-family: monospace;
+            display: flex;
+            /* flex-direction: column; */
+            /* justify-content: center; */
+            /* padding-right: 0px; */
+            position: relative;
+            border: 6px solid black;
+            
+        }
+        .text1{
+            font-size: 50px;
+            font-weight: bold;
+            position: absolute;
+            bottom: 250px;
+            right: 0;
+            padding: 10px;
+        }
